@@ -1,0 +1,8 @@
+rdkit
+pubchempy
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
