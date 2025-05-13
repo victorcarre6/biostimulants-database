@@ -1,5 +1,5 @@
 # biostimulants-database
-An open-source repository for biostimulants and bioactive compounds from plants, including data curation and cheminformatics tools.
+An open-source repository for biostimulants and bioactive compounds from biosources, including data curation and cheminformatics tools.
 
 This project aims to support researchers and companies working on sustainable agriculture by providing a structured, data-rich resource for biostimulant discovery and characterization.  
 
